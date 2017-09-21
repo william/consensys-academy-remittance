@@ -21,7 +21,7 @@ Only the contract and truffle test suite exist. The web interface has not been i
     * Alice =(password2)=> Bob
     * Bob =(password2)=> Carol
     * Carol =(password1,password2)=> Remittance Contract
-            <========(ETH)==========
+    * Carol <========(ETH)========== Remittance Contract
 
 
 ### Stretch goals
